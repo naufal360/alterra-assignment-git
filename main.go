@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("Add featureB branch")
 	fmt.Println("Add first function featureB")
 	fmt.Println("Add second function featureA")
+	fmt.Println("Deploy version 1.0.0")
 }
