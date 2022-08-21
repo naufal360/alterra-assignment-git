@@ -13,4 +13,6 @@ func main() {
 	fmt.Println("Add first function featureB")
 	fmt.Println("Add second function featureA")
 	fmt.Println("Deploy version 1.0.0")
+	fmt.Println("Add second function featureB")
+	fmt.Println("Deploy version 1.1.0")
 }
