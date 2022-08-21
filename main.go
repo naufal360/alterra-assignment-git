@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("Add initial function")
 	fmt.Println("Stash Branch")
 	fmt.Println("Add featureA branch")
+	fmt.Println("Add first function featureA")
 }
