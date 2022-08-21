@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("Add first function featureA")
 	fmt.Println("Add featureB branch")
 	fmt.Println("Add first function featureB")
+	fmt.Println("Add second function featureA")
 }
